@@ -22,10 +22,13 @@ This project demonstrates the practical application of Machine Learning in healt
 
 ## Screenshots
 
+## 📁 Batch Prediction Dashboard
 ![Batch Prediction](MediPredict_SS/batch.png)
 
+## 🔬 Single Patient Simulator
 ![Single Patient Simulator](MediPredict_SS/simulator.png)
 
+## 📊 Model Analytics & Interpretability
 ![Model Analytics](MediPredict_SS/analytics.png)
 
 ---
